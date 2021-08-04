@@ -8,12 +8,6 @@ import java.util.NoSuchElementException;
  *
  * @author Rami Bouhafs
  * @version 1.0
- * @userid rbouhafs3
- * @GTID 903591700
- *
- * Collaborators: Tutoring on AVLs by an upperclassman friend not in the class, Zach Minoh
- *
- * Resources: None
  * @param <T> generics parameter
  */
 public class AVL<T extends Comparable<? super T>> {
