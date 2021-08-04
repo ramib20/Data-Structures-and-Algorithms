@@ -9,12 +9,6 @@ import java.util.NoSuchElementException;
  *
  * @author Rami Bouhafs
  * @version 1.0
- * @userid rbouhafs3
- * @GTID 903591700
- *
- * Collaborators: none
- *
- * Resources: none
  * @param <K> key
  * @param <V> value
  */
