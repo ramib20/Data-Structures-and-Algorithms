@@ -11,12 +11,6 @@ import java.util.PriorityQueue;
  *
  * @author Rami Bouhafs
  * @version 1.0
- * @userid rbouhafs3
- * @GTID 903591700
- *
- * Collaborators: General help/tutoring of pattern matching algorithms by an upperclassman not in the class, Zach Minoh
- *
- * Resources: none
  */
 public class GraphAlgorithms {
 
