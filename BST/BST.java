@@ -9,12 +9,6 @@ import java.util.LinkedList;
  *
  * @author Rami Bouhafs
  * @version 1.0
- * @ userid rbouhafs3
- * @ GTID 903591700
- *
- * Collaborators: General help/tutoring of binary search trees by an upperclassman not in the class, Zach Minoh
- *
- * Resources: None
  * @param <T> is generic data type
  */
 public class BST<T extends Comparable<? super T>> {
